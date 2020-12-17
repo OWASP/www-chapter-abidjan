@@ -21,5 +21,5 @@ It's important for developers and cybersecurity expert to be aware of best pract
      
 ### Subscription (Free)
 
-[Registration](https://www.eventbrite.co.uk/e/secure-coding-with-owasp-tickets-132958192533)
+[Register here](https://www.eventbrite.co.uk/e/secure-coding-with-owasp-tickets-132958192533/)
 ![affiche](assets/images/AFFICHE-OWASP1.png)
